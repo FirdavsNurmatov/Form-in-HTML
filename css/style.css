@@ -1,0 +1,34 @@
+body {
+    background-color: cyan;
+}
+
+table {
+    margin: auto;
+    background-color: white;
+}
+
+td {
+    font-weight: bold;
+}
+
+label {
+    font-weight: normal;
+}
+
+#information {
+    padding: 10px;
+    width: 230px;
+}
+
+.gender {
+    justify-content: space-between;
+}
+
+#btn {
+    width: 100%;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 5px;
+    background-color: cyan;
+    color: white;
+}
